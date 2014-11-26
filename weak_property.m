@@ -1,4 +1,4 @@
-// weak property
+// Property weak
 // 
 //
 // IDECodeSnippetCompletionPrefix: propw
