@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 1427DBFD-DFB2-4796-84F0-A56BE43CAF27
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 class <#name#> {
     <#properties and methods#>
 }
