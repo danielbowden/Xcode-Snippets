@@ -3,8 +3,8 @@
 //
 // IDECodeSnippetCompletionPrefix: using namespace
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 5BEE2080-03BF-4B7A-989F-7507C8364503
+// IDECodeSnippetIdentifier: CC260F86-914A-47E4-91DB-CAFA53DA9A14
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 using namespace <#namespace name#>
