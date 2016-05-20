@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: encodeWithCoder
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: E591D0EA-F048-4CA4-B0C1-7794A0118F79
+// IDECodeSnippetIdentifier: 7D8E3837-1501-4197-AB87-AAA8D0A49F80
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)encodeWithCoder:(NSCoder *)coder
 {
     [super encodeWithCoder:coder];
