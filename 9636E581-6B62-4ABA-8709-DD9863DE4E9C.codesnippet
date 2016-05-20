@@ -3,25 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>class</string>
+	<string>dispatch_after snippet</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
-		<string>TopLevel</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#name#&gt; {
-    &lt;#properties and methods#&gt;
-}
+	<string>dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(&lt;#delayInSeconds#&gt; * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+    &lt;#code to be executed after a specified delay#&gt;
+});
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1427DBFD-DFB2-4796-84F0-A56BE43CAF27</string>
+	<string>9636E581-6B62-4ABA-8709-DD9863DE4E9C</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Define a Swift class.</string>
+	<string>Execute a block after a set amount of time.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Class</string>
+	<string>gcd:_dispatch_after</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

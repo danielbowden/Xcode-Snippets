@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>class</string>
+	<string>description</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
-		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#name#&gt; {
-    &lt;#properties and methods#&gt;
+	<string>- (NSString *)description
+{
+    return [NSString stringWithFormat:@"&lt;#format string#&gt;", &lt;#arguments#&gt;];
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1427DBFD-DFB2-4796-84F0-A56BE43CAF27</string>
+	<string>AA3AF3BC-DF7A-430C-86D5-3D72C9B7DEBD</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Define a Swift class.</string>
+	<string>Create a textual representation of an object.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Class</string>
+	<string>Objective-C -description Method</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

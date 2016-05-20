@@ -3,25 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>class</string>
+	<string>namespace</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#name#&gt; {
-    &lt;#properties and methods#&gt;
+	<string>namespace &lt;#namespace name#&gt; {
+  &lt;#declarations#&gt;
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1427DBFD-DFB2-4796-84F0-A56BE43CAF27</string>
+	<string>6DBACC54-3EEA-4AD0-88D8-DF482032AABC</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Define a Swift class.</string>
+	<string>Define a new namespace or extend an existing namespace.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Class</string>
+	<string>C++ Namespace Definition</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

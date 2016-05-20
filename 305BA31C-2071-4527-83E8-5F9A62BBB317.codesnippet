@@ -3,25 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>class</string>
+	<string></string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
-		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#name#&gt; {
-    &lt;#properties and methods#&gt;
+	<string>- (BOOL)validate&lt;#CapitalizedPropertyName#&gt;:(id *)valueRef error:(NSError **)outError
+{
+    BOOL validationResult = YES;
+    &lt;#Validation code#&gt;
+    return validationResult;
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1427DBFD-DFB2-4796-84F0-A56BE43CAF27</string>
+	<string>305BA31C-2071-4527-83E8-5F9A62BBB317</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Define a Swift class.</string>
+	<string>Validate a property.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Class</string>
+	<string>Core Data Property Validation</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

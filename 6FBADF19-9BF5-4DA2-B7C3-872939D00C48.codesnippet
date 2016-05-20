@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>class</string>
+	<string>structdef</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class &lt;#name#&gt; {
-    &lt;#properties and methods#&gt;
-}
+	<string>struct &lt;#struct name#&gt; {
+  &lt;#struct fields#&gt;
+};
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1427DBFD-DFB2-4796-84F0-A56BE43CAF27</string>
+	<string>6FBADF19-9BF5-4DA2-B7C3-872939D00C48</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Define a Swift class.</string>
+	<string>Declare a new structure type.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Class</string>
+	<string>Struct Declaration</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
