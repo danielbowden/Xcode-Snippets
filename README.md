@@ -1,6 +1,7 @@
 Xcode-Snippets
 ==============
+A collection of my common Xcode snippets.
 
-A collection of my common Xcode snippets automatically managed using ACCodeSnippetRepository Xcode Plugin.
+Was automatically managed using [ACCodeSnippetRepository Xcode Plugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin).
 
-Install manually by copy-pasting in Xcode or with the [ACCodeSnippetRepository Xcode Plugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin).
+Xcode plugins are now deprecated in Xcode 8 so instead install manually by running `./manual-install.sh` which will symlink this repo to the CodeSnippets directory. 
